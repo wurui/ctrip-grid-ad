@@ -14,41 +14,47 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <table-menu>
-        <i>
-            <icon>
-                //a.oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                nice screen
-            </title>
-            <tag>
-                powerful notebook
-            </tag>
-            <color>
-                wallet
-            </color>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-        <i>
-            <icon>
-                //a.oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                good camera
-            </title>
-            <tag>
-                tough screen
-            </tag>
-            <color>
-                powerful notebook
-            </color>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-    </table-menu>
+        <grid-menu>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3oteeTj9w9csbeR12j1Ae26-725.jpg</icon>
+                <title>精选展览演出</title>
+                <subtitle>有趣你的生活</subtitle>
+                <tag>超值体验价</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3ousoTj9w9cqx4Rrzv1Acpx-622.jpg</icon>
+                <title>满¥100减100</title>
+                <subtitle>每天10点限量抢</subtitle>
+                <tag>酒店神券</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3osplTj9w9ct07RksukA5zi-885.jpg</icon>
+                <title>门票特权日</title>
+                <tag>景区3折起</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3os78Tj9w9ctikR1lgaA5iw-912.jpg</icon>
+                <title>签到送积分</title>
+                <tag>天天有惊喜</tag>
+                <color></color>
+                <href></href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9ehnpxnTj9xvdvs5RynelA3qi0-1011.png</icon>
+                <title>超级会员</title>
+                <tag>双十一打8折</tag>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9g3ormrTj9w9cu31Rw20sA4ny-723.jpg</icon>
+                <title>优品商城</title>
+                <tag>新客0元领</tag>
+            </i>
+        </grid-menu>
     </data>
 </root>
