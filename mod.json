@@ -1,6 +1,10 @@
 {
   "name": "ctrip-grid-ad",
   "version": "0.0.1",
-  "apiDependencies": ["grid-menu"]
+  "apiDependencies": [
+  	{
+  		"name":"ui-sale"
+  	}
+  ]
 }
 
